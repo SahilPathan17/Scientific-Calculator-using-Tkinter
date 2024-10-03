@@ -40,7 +40,7 @@ The main goal of this project is to provide a simple yet powerful <strong>scient
 <h2>How to Run</h2>
 <ol>
   <li>Clone this repository:
-    <pre><code>git clone https://github.com/your-username/scientific-calculator.git</code></pre>
+    <pre><code>git clone https://github.com/SahilPathan17/scientific-calculator.git</code></pre>
   </li>
   <li>Navigate to the project directory:
     <pre><code>cd scientific-calculator</code></pre>
@@ -61,7 +61,8 @@ The main functionalities are implemented in the following sections of code:
 </ul>
 
 <h2>Output Screenshot</h2>
-<p><img src="screenshot.png" alt="Screenshot of Scientific Calculator"></p>
+<p><img src="![image](https://github.com/user-attachments/assets/90e6c599-fd90-436f-8ce4-33799d064180)
+" alt="Screenshot of Scientific Calculator"></p>
 
 <h2>Future Scope</h2>
 <ul>
