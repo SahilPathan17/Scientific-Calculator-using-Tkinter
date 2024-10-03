@@ -39,11 +39,11 @@ The main goal of this project is to provide a simple yet powerful <strong>scient
 
 <h2>How to Run</h2>
 <ol>
-  <li>Copy Python file:
+  <li>Copy Python file
   </li>
-  <li>Load it to VSC or similar platform the project directory:
+  <li>Load it to VSC or similar platform the project directory
   </li>
-  <li>Run the Python script:
+  <li>Run the Python script
   </li>
 </ol>
 <h4>OR</h4>
