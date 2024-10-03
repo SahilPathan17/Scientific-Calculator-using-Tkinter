@@ -60,10 +60,6 @@ The main functionalities are implemented in the following sections of code:
   <li><strong>Error handling</strong>: The application gracefully handles invalid input and displays appropriate messages.</li>
 </ul>
 
-<h2>Output Screenshot</h2>
-<p><img src="![image](https://github.com/user-attachments/assets/90e6c599-fd90-436f-8ce4-33799d064180)
-" alt="Screenshot of Scientific Calculator"></p>
-
 <h2>Future Scope</h2>
 <ul>
   <li>Adding more advanced scientific functions and constants.</li>
